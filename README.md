@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+live view : https://netflix.girishban.tech
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
